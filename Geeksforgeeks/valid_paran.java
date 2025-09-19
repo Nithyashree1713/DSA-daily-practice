@@ -1,5 +1,5 @@
 package Geeksforgeeks;
-public class Solution {
+public class valid_paran {
     public int minParentheses(String s) {
         int balance = 0;     // counts unmatched '('
         int insertions = 0;  // counts needed insertions
@@ -21,7 +21,7 @@ public class Solution {
     }
 
     public static void main(String[] args) {
-        Solution sol = new Solution();
+        valid_paran sol = new valid_paran();
 
         // Example test cases
         String s1 = "(()(";

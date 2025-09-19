@@ -13,3 +13,8 @@ Link: [LeetCode: 860](https://leetcode.com/problems/lemonade-change/)
 Approach: Greedy Algorithm 
           (TC: O(n))
           (SC: O(1))
+
+Problem: Min Add to Make Parentheses Valid 
+Link: [Geeks for geeks](https://www.geeksforgeeks.org/problems/min-add-to-make-parentheses-valid/1)  
+Approach: (TC: O(n))
+          (SC: O(1))
