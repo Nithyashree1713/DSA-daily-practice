@@ -18,3 +18,12 @@ Problem: Min Add to Make Parentheses Valid
 Link: [Geeks for geeks](https://www.geeksforgeeks.org/problems/min-add-to-make-parentheses-valid/1)  
 Approach: (TC: O(n))
           (SC: O(1))
+
+----------
+
+📅 20 Sept 2025  
+Problem: Fair Candy Swap  
+Link: [LeetCode: 888](https://leetcode.com/problems/fair-candy-swap/)  
+Approach: Math + HashSet for fast lookup 
+          (TC: O(n))
+          (SC: O(n))  
