@@ -41,3 +41,14 @@ Problem: Max Rectangle
 Link: [Geeks for geeks](https://www.geeksforgeeks.org/problems/max-rectangle/1)  
 Approach: (TC: O(n × m))
           (SC: O(m) (heights array + stack))
+
+----------
+
+📅 22 Sept 2025  
+Problem: Max of min for every window size  
+Link: [Geeks for geeks](https://www.geeksforgeeks.org/problems/maximum-of-minimum-for-every-window-size3453/1)  
+Approach: Monotonic stack method
+          (TC: O(n))
+          (SC: O(n))
+
+
