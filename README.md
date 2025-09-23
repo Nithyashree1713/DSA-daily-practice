@@ -51,4 +51,12 @@ Approach: Monotonic stack method
           (TC: O(n))
           (SC: O(n))
 
+----------
+
+📅 23 Sept 2025  
+Problem: Queue traversal 
+Link: [Geeks for geeks](https://www.geeksforgeeks.org/problems/queue-reversal/1)  
+Approach: (TC: O(2*n))
+          (SC: O(n)) for stack
+
 
