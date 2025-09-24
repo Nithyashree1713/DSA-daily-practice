@@ -1,4 +1,4 @@
-package Geeksforgeeks;
+
 public class valid_paran {
     public int minParentheses(String s) {
         int balance = 0;     // counts unmatched '('

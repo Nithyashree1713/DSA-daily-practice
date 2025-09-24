@@ -1,4 +1,4 @@
-package Geeksforgeeks;
+
 import java.util.*;
 
 class max_min_eachwindowsize {

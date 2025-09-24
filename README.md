@@ -59,4 +59,11 @@ Link: [Geeks for geeks](https://www.geeksforgeeks.org/problems/queue-reversal/1)
 Approach: (TC: O(2*n))
           (SC: O(n)) for stack
 
+----------
+
+📅 24 Sept 2025  
+Problem: Design min max Queue 
+Link: [Geeks for geeks](https://www.geeksforgeeks.org/problems/design-minmax-queue/1)  
+
+
 
