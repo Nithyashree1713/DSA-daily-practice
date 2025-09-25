@@ -65,5 +65,22 @@ Approach: (TC: O(2*n))
 Problem: Design min max Queue 
 Link: [Geeks for geeks](https://www.geeksforgeeks.org/problems/design-minmax-queue/1)  
 
+----------
+
+📅 25 Sept 2025
+
+Problem: Minimum Bit Flips to Convert Number
+Link: [LeetCode:2220](https://leetcode.com/problems/minimum-bit-flips-to-convert-number/description/)
+Approach: XOR
+          (TC: O(log(max(start, goal))))
+          (SC: O(1))
+
+Problem: Generate Binary Numbers
+Link: [GeeksforGeeks](https://www.geeksforgeeks.org/problems/generate-binary-numbers-1587115620/1)
+Approach: Queue
+          (TC: O(n log n))
+          (SC: O(n log n)) 
+
+
 
 
