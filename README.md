@@ -81,6 +81,14 @@ Approach: Queue
           (TC: O(n log n))
           (SC: O(n log n)) 
 
+----------
+
+📅 27 Sept 2025  
+Problem: Find the Original Typed String I
+Link: [Letcode:3330](https://leetcode.com/problems/find-the-original-typed-string-i/description/)
+Approach: (TC: O(n))
+          (SC: O(1))   
+
 
 
 
