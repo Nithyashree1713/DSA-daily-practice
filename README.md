@@ -87,7 +87,15 @@ Approach: Queue
 Problem: Find the Original Typed String I
 Link: [Letcode:3330](https://leetcode.com/problems/find-the-original-typed-string-i/description/)
 Approach: (TC: O(n))
-          (SC: O(1))   
+          (SC: O(1))  
+
+---------- 
+
+📅 28 Sept 2025  
+Problem: Largest Perimeter Triangle
+Link: [Letcode:976](https://leetcode.com/problems/largest-perimeter-triangle/description/?envType=daily-question&envId=2025-09-28)
+Approach: (TC: O(n log n))
+          (SC: O(1)) 
 
 
 
