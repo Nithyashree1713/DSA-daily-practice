@@ -97,6 +97,13 @@ Link: [Letcode:976](https://leetcode.com/problems/largest-perimeter-triangle/des
 Approach: (TC: O(n log n))
           (SC: O(1)) 
 
+----------
+
+Problem: Maximum Subarray sum 2
+Link: [GeeksforGeeks](https://www.geeksforgeeks.org/problems/maximum-subarray-sum--110820/1)
+Approach: Prefix sum + sliding window + deque (monotonic queue).
+          (TC: O(n))
+          (SC: O(n)) 
 
 
 
