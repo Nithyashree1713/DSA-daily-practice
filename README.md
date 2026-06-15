@@ -105,5 +105,14 @@ Approach: Prefix sum + sliding window + deque (monotonic queue).
           (TC: O(n))
           (SC: O(n)) 
 
+----------
+
+📅 15 june 2026
+
+Problem: Divide Two Integers
+Link: [LeetCode 29](https://leetcode.com/problems/divide-two-integers/)
+Approach: Bit Manipulation + Binary Division using Left Shift
+          (TC: O(log² n))
+          (SC: O(1))
 
 
